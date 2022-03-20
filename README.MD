@@ -50,7 +50,6 @@
 <p align="center">
 <a href="mailto:buvaneshnachiappan7@gmail.com"><img src="https://img.shields.io/badge/-buvaneshnachiappan7-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/bu_vi.b"><img src="https://img.shields.io/badge/@bu_vi.b-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/Mîťhûñ Vîñãýãk"><img src="https://img.shields.io/badge/-@Mîťhûñ Vîñãýãk-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 -----
